@@ -1,0 +1,25 @@
+
+
+.menu-section{
+    background-image: url(https://unsplash.com/photos/four-person-earring-on-black-wooden-table-E6HjQaB7UEA);
+}
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            background-color: #f8f8f8;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .menu-section {
+            margin-bottom: 30px;
+        }
